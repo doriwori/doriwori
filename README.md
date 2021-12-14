@@ -27,7 +27,7 @@
 
 - 기업은행 IT금융개발부 / 과장 (2017/04 ~ 2021/06)
 
-[라다카](http://http://www.ladaka.com/)
+[라다카](http://www.ladaka.com/)
 
 - SW Dev / 대리 (2014/10 ~ 2017/03)
 
