@@ -19,6 +19,9 @@
 
 ## <span style="color:#829a9e">:briefcase: 경력</span>
 
+[풀무원](https://www.pulmuone.co.kr/)
+- 풀무원 CSO_모바일개발팀 / P3 (2022/03 ~ ing)
+
 [중소기업은행](https://www.ibk.co.kr/)
 
 - IBK컨설팅센터 BOX사업팀 / 과장 (2021/06 ~ 2021/11)
