@@ -56,8 +56,6 @@ TAG : Mobile Developer, Android, iOS, Flutter, React-Native
 - IDE : Android Studio, Gitlab, Redmine, AdobeXd
 - 개발 인원 : 20명(Android: 2명)
 
- </br>
-
 ### IBK전자문서 Memory leak 
 
 전자문서 앱 메모리누수 원인 확인 및 해결
@@ -67,8 +65,6 @@ TAG : Mobile Developer, Android, iOS, Flutter, React-Native
 - 담당 역할 : 모바일 앱 개발
 - 기술 스택 : AOS(Java), Firebase(Crashlytics), LeakCanary, Android Profiler
 - IDE : Android Studio, SVN
-
-</br>
 
 ### IBK 금융소비자보호법 대응 프로젝트
 
@@ -81,8 +77,6 @@ TAG : Mobile Developer, Android, iOS, Flutter, React-Native
 - IDE : Android Studio, Eclipse, SVN, CVS
 - 개발 인원 : 4명
 
-</br>
-
 ### IBK O2O 서비스 프로젝트
 
 비대면 고객신규, 계좌계설을 위해 i-OneBank에서 작성한 내용을 토대로 영업점 업무단말에 정보전달 해주는 서비스 개발
@@ -93,8 +87,6 @@ TAG : Mobile Developer, Android, iOS, Flutter, React-Native
 - 기술 스택 : AOS(Java)
 - IDE : Android Studio, SVN
 - 개발 인원 : 6명
-
-</br>
 
 ### IBK 디지털본인인증 프로젝트
 
@@ -107,8 +99,6 @@ TAG : Mobile Developer, Android, iOS, Flutter, React-Native
 - IDE : Android Studio, Eclipse, PowerDev, SVN, CVS
 - 개발 인원 : 10명
 
-</br>
-
 ###  IBK전자문서 음성안내 프로젝트
 
 전자문서 음성 자동안내 서비스 개발
@@ -119,8 +109,6 @@ TAG : Mobile Developer, Android, iOS, Flutter, React-Native
 - 기술 스택 : AOS(Java), TTS, FCM
 - IDE : Android Studio, SVN
 - 개발 인원 : 4명
-
-</br>
 
 ###  IBK전자문서 전자리플렛 프로젝트
 
@@ -133,8 +121,6 @@ TAG : Mobile Developer, Android, iOS, Flutter, React-Native
 - IDE : Android Studio, SVN
 - 개발 인원 : 6명
 
-</br>
-
 ### IBK캠패드 프로젝트
 
 기업은행 외부 섭외 시 사용하는 디지털 신분증 촬영 및 비밀번호 저장 서비스 개발
@@ -146,8 +132,6 @@ TAG : Mobile Developer, Android, iOS, Flutter, React-Native
 - IDE : Android Studio, SVN
 - 개발 인원 : 3명
 
-</br>
-
 ### IBK대고객안내문 앱 프로젝트
 
 기업은행 창구에서 활용하는 안내문 앱 개발
@@ -157,9 +141,6 @@ TAG : Mobile Developer, Android, iOS, Flutter, React-Native
 - 담당 역할 : 모바일 앱 개발
 - 기술 스택 : AOS(Java)
 - IDE : Android Studio, SVN
-
-</br>
-
 
 ### IBK전자문서 단말기기 제어 프로젝트
 
@@ -172,8 +153,6 @@ Samsung Knos Admin SDK를 통한 시스템 앱 권한 획득 단말기기 제어
 - IDE : Android Studio, Eclipse, OrangeOracle, SVN, CVS
 - 개발 인원 : 1명
 
-</br>
-
 ### IBK전자문서 전자필경대 프로젝트
 
 전자문서 사전작성 기능 개발
@@ -184,8 +163,6 @@ Samsung Knos Admin SDK를 통한 시스템 앱 권한 획득 단말기기 제어
 - 기술 스택 : AOS(Java)
 - IDE : Eclipse, SVN
 - 개발 인원 : 6명
-
-</br>
 
 ### IBK전자문서시스템/서류관리시스템/캠패드시스템 운영
 
@@ -202,8 +179,6 @@ Samsung Knos Admin SDK를 통한 시스템 앱 권한 획득 단말기기 제어
 - SCM Tool : SVN, CVS, CF
 - 운영 인원 : 4명
 
-</br>
-
 ### 한국투자공사 모바일 그룹웨어
 
 Hybrid 앱 모바일 그룹웨어 개발
@@ -214,8 +189,6 @@ Hybrid 앱 모바일 그룹웨어 개발
 - 기술 스택 : iOS(Objective-C), Hybrid(Cordova), GCM, VPN Config, Enterprise release
 - IDE : Eclipse, SVN
 - 개발 인원 : 10명(iOS 단독개발)
-
-</br>
 
 ### IBK 연구비알리미
 
@@ -228,8 +201,6 @@ Hybrid 솔루션 엔진 포팅 작업(Android -> iOS) 후 앱 개발
 - IDE : XCode, SVN
 - 개발 인원 : 1명
 
-</br>
-
 ### CJ One 카드 App 고도화
 
 CJ One 카드 고도화 프로젝트
@@ -241,8 +212,6 @@ CJ One 카드 고도화 프로젝트
 - IDE : XCode, SVN
 - 개발 인원 : 20명(iOS 2명)
 
-</br>
-
 ### 광주유니버시아드 슬라이드 퍼즐/틀린그림 찾기
 
 광주유니버시아드 홍보용 게임 개발
@@ -253,8 +222,6 @@ CJ One 카드 고도화 프로젝트
 - 기술 스택 : AOS(Java), iOS(Objective-C), SNS OpenAPI(Kakao, Naver, Google), PlayStore/AppStore Release
 - IDE : Eclipse, XCode, SVN
 - 개발 인원 : 1명
-
-</br>
 
 ### Look 안심 지킴이(위치 기반 서비스) 앱
 
