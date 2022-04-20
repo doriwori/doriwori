@@ -53,7 +53,7 @@ TAG : Mobile Developer, Android, iOS, Flutter, React-Native
 - 연계/소속회사 : IBK중소기업은행
 - 담당 역할 : 모바일 앱 개발
 - 기술 스택 : AOS(Java/Kotlin), Firebase(FCM, Crashlytics, Analytics), AAC(Retrofit, LiveData, Databinding, Lifecycles, Navigation), Retrofit, MVVM, DSBridge, coroutine, Adbrix, Lottie, PlayStore Release
-- IDE : Android Studio, Gitlab
+- IDE : Android Studio, Gitlab, Redmine, AdobeXd
 - 개발 인원 : 20명(Android: 2명)
 
  </br>
