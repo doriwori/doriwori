@@ -235,6 +235,13 @@ java, google map, gps, geolocation
 
 - AWS 클라우드 전문가(CLF-C01) 자격증 취득
 
+## Azure Fundamentals.
+
+2023.04
+
+- Microsoft Azure 클라우드 (az-900) 자격증 취득
+
+
 ## IBK시스템 대표이사 표창.
 
 2020.03
