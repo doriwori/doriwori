@@ -30,7 +30,7 @@ Android, iOS 개발 뿐만 아니라 Back-end 개발 및 운영도 함께 담당
 
 ## [풀무원](https://www.pulmuone.co.kr/pulmuone) IT전략 모바일개발팀
 
-모바일 앱 DX 전환, 앱 품질관리, 모바일 거버넌스 구축, 비즈니스기획 등 전사 모바일 경험 강화 업무 수행. B2C 서비스 [#풀무원](https://shop.pulmuone.co.kr/), [개인맞춤영양](https://perpack.pulmuone.com/), [디자인밀](https://dm.pulmuone.com/) 및 다수의 In-House 앱 서비스 기술 지원
+자사 Enterprise/B2C서비스 앱 개발 및 SDK 개발, 모바일 트렌드 및 신기술 PoC, DX 혁신 과제 수행. B2C 서비스 [#풀무원](https://shop.pulmuone.co.kr/), [개인맞춤영양](https://perpack.pulmuone.com/), [디자인밀](https://dm.pulmuone.com/)
 
 **Mobile Developer**
 
@@ -38,7 +38,8 @@ Android, iOS 개발 뿐만 아니라 Back-end 개발 및 운영도 함께 담당
 
 **What did I do.**
 
-- 전사 B2C/In-house 앱 정책 준수 배포 업무 담당
+- 전사 B2C/In-house 앱 개발/개선 및 SDK 개발
+- Native(AOS/iOS), Cross-Platform(Flutter/React-Native), Hybrid App 개발
 - 화면개발, 하이브리드 앱 인터페이스 개발, 솔루션 적용, 이슈해결 등 개발 관련 기술 지원
 - Git-Flow 전략 팀 내 건의 및 도입 후 형상관리 정책 개선
 - 모바일 표준 모듈(퍼미션 허용, 생체인증, 인앱업데이트, 버전체크, 인터페이스용 웹뷰 등) 개발 및 가이드 문서 작업
@@ -241,6 +242,11 @@ java, google map, gps, geolocation
 
 - Microsoft Azure 클라우드 (az-900) 자격증 취득
 
+## Oracle Certified Associate, Java SE 8 Programmer.
+
+2023.04
+
+- Oracle Java (1Z0-808) 자격증 취득
 
 ## IBK시스템 대표이사 표창.
 
