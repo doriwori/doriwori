@@ -230,6 +230,12 @@ java, google map, gps, geolocation
 
 # ETC.
 
+## SQL Developer.
+
+2023.07
+
+- SQL 개발자 자격증 취득
+
 ## AWS Certified Cloud Practitioner.
 
 2023.03
