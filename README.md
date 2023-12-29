@@ -230,6 +230,18 @@ java, google map, gps, geolocation
 
 # ETC.
 
+## 리눅스마스터2급.
+
+2023.12
+
+- 리눅스마스터 자격증 취득
+
+## ADsP.
+
+2023.09
+
+- 데이터분석준전문가 자격증 취득
+
 ## SQL Developer.
 
 2023.07
@@ -254,6 +266,12 @@ java, google map, gps, geolocation
 
 - Oracle Java (1Z0-808) 자격증 취득
 
+## BM특허.
+
+2023.12
+
+- 전자문서 TTS 연계 BM특허 출원(출원번호:1020210004771)
+ 
 ## IBK시스템 대표이사 표창.
 
 2020.03
