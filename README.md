@@ -203,30 +203,6 @@ objective-c, geolocation, gcm, facebook, kakao, twitter
 
 ---
 
-## 피플웨어
-
-B2C 서비스 앱 개발 업무. 위치기반 실시간 공유 서비스 개발.
-
-**Android Developer** 
-
-2014.02 - 2014.05
-
-**What did I do.**
-
-- Look안심지킴이 Android 개발
-- google map 을 이용한 map view 개발
-- 플레이 스토어 배포 담당
-
-**What have I achieved.**
-
-- 구축 완료 및 스토어 배포
-
-**Tech Keyword.**
-
-java, google map, gps, geolocation
-
----
-
 # ETC.
 
 ## 리눅스마스터2급.
