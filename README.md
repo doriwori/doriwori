@@ -1,4 +1,4 @@
-# 박희준 | 설계는 촘촘하게. 코딩은 미니멀하게.
+# 박희준 | Android, iOS 앱 개발 및 IT 서비스 운영 개발자
 
 
 
@@ -10,19 +10,13 @@ Email. **doriwori@gmail.com**
 
 ### Channel.
 
+**Site.** [https://bkstartflow.web.app](https://bkstartflow.web.app)
+
 **Blog.** [https://velog.io/@bk87](https://velog.io/@bk87)
 
+**Blog2.** [https://bkdev.tistory.com](https://bkdev.tistory.com)
+
 **GitHub**. [https://github.com/doriwori](https://github.com/doriwori)
-
----
-
-# Introduce.
-
-10년 차 모바일 개발자로 은행, 공사, 제조사, 스타트업 등에서 개발/배포/운영 업무를 담당했습니다. 5년은 정규직으로 5년은 프리랜서로 다양한 산업군에서 모바일 상용 서비스를 개발했습니다. 일부 프로젝트에서는 개발 PL을 맡아 프로젝트를 리딩 한 경험도 있습니다.
-
-Android, iOS 개발 뿐만 아니라 Back-end 개발 및 운영도 함께 담당한 경험이 있습니다. 서비스 개발을 진행함에 있어서, 설계 시에 조금 더 폭넓은 시야를 가지고 프로세스를 설계하도록 노력하며, 구축 시에는 다른 이들이 최대한 쉽게 이해할 수 있도록 복잡하지 않게 코딩하려고 노력합니다.
-
-비즈니스 가치를 얼마나 잘 구현하느냐에  따라서 개발자의 가치가 생긴다고 생각합니다. 담당하는 서비스에 대해 오너십을 가지고, 주도적으로 업무를 수행하며 이를 완수 할 때 생기는 성취감을 삶의 원동력으로 삼고 있습니다. 
 
 ---
 
@@ -30,7 +24,8 @@ Android, iOS 개발 뿐만 아니라 Back-end 개발 및 운영도 함께 담당
 
 ## [풀무원](https://www.pulmuone.co.kr/pulmuone) IT전략 모바일개발팀
 
-자사 Enterprise/B2C서비스 앱 개발 및 SDK 개발, 모바일 트렌드 및 신기술 PoC, DX 혁신 과제 수행. B2C 서비스 [#풀무원](https://shop.pulmuone.co.kr/), [개인맞춤영양](https://perpack.pulmuone.com/), [디자인밀](https://dm.pulmuone.com/)
+모바일 앱 DX 전환, 모바일 거버넌스 구축 등 전사 모바일 경험 강화 업무 수행. 
+B2C 서비스 [#풀무원](https://shop.pulmuone.co.kr/), [퍼팩](https://perpack.pulmuone.com/), [디자인밀](https://dm.pulmuone.com/)
 
 **Mobile Developer**
 
@@ -38,9 +33,9 @@ Android, iOS 개발 뿐만 아니라 Back-end 개발 및 운영도 함께 담당
 
 **What did I do.**
 
-- 전사 B2C/In-house 앱 개발/개선 및 SDK 개발
+ 전사 B2C/In-house 앱 개발/개선 및 SDK 개발
 - Native(AOS/iOS), Cross-Platform(Flutter/React-Native), Hybrid App 개발
-- 화면개발, 하이브리드 앱 인터페이스 개발, 솔루션 적용, 이슈해결 등 개발 관련 기술 지원
+- 화면개발, 하이브리드 앱 인터페이스 개발, 솔루션 적용, 이슈해결
 - Git-Flow 전략 팀 내 건의 및 도입 후 형상관리 정책 개선
 - 모바일 표준 모듈(퍼미션 허용, 생체인증, 인앱업데이트, 버전체크, 인터페이스용 웹뷰 등) 개발 및 가이드 문서 작업
 - 일부 프로젝트 리딩, 요구사항명세서 작업, 스토리보드 기획, DB 설계/구축, API개발, 데이터 적재 작업 진행
@@ -49,10 +44,10 @@ Android, iOS 개발 뿐만 아니라 Back-end 개발 및 운영도 함께 담당
 
 **What have I achieved.**
 
-- 앱 품질진단 진행 및 이슈 개선(일부 32종 앱 대상, 총 51건의 이슈 발견, 31건 개선)
-- 사내 앱스토어 서비스 자체 구축 및 실사용자 1600명 기록
+- 앱 품질진단 진행 및 이슈 개선
+- 사내 앱스토어 서비스 자체 구축 (Flutter 앱, BOS, API 서버)
 - 개발 프로세스 표준 설계/개발 및 서비스 앱에 도입
-- 오픈소스 이슈 트래커 YONA 제품, 커스터마이징 하여 사내 이슈 트래커로 배포
+- 외주사 발굴, 요구사항 정의서 및 스토리보드 기획, WAS 구축, DB 설계 및 구축 등 프로젝트 리딩 업무 수행
 
 **Tech Keyword.**
 
@@ -70,10 +65,12 @@ kotlin, java, swift, objective-c, flutter, react-native, firebase, gitlab, linux
 
 **What did I do.**
 
-- 고도화 프로젝트 및 안정화 수행
+- IBK BOX POS 고도화 프로젝트 수행.
 - 마케팅 효율을 측정하기 위한 솔루션 도입 등 전략 개발
 - 사용자 유입을 위한 추천인 지원금 이벤트 개발
 - 사용자 가입 간소화 프로세스 개발
+- 카드 리더기/POS/카드사 개발
+- GA 및 애드브릭스 분석솔루션 활용, VAN사 가입신청 간소화 인터페이스 개발
 
 **What have I achieved.**
 
@@ -115,10 +112,11 @@ kotlin, java, android jetpack, bluetooth, firebase, gitlab, adbrix
 - 개인 및 기업 모든 창구 전자문서 100% 도입에 기여
 - 연간 45억원 종이 및 물류 비용 절감에 기여
 - 2016 미래창조과학부 장관상 수상에 기여
+- 전자문서 TTS 연계 BM특허 획득 (출원번호:1020210004771)
 
 **Tech Keyword.**
 
-kotlin, java, firebase, subversion, mi-platform, linux, shell, dotnet, c#, oracle, tibero, jeus, nginx, html/css, javascript, xml 
+kotlin, java, firebase, subversion, mi-platform, linux, shell, dotnet, c#, oracle, tibero, jeus, nginx, html/css, javascript, xml
 
 ---
 
