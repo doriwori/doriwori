@@ -22,7 +22,7 @@ Email. **doriwori@gmail.com**
 
 # Work Experience.
 
-## [풀무원](https://www.pulmuone.co.kr/pulmuone) IT전략 모바일개발팀
+## [풀무원](https://www.pulmuone.co.kr/pulmuone) 풀무원 IS4팀
 
 모바일 앱 DX 전환, 모바일 거버넌스 구축 등 전사 모바일 경험 강화 업무 수행. 
 B2C 서비스 [#풀무원](https://shop.pulmuone.co.kr/), [퍼팩](https://perpack.pulmuone.com/), [디자인밀](https://dm.pulmuone.com/)
