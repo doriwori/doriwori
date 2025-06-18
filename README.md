@@ -70,7 +70,8 @@ kotlin, java, swift, objective-c, flutter, react-native, firebase, gitlab, linux
 - 사용자 유입을 위한 추천인 지원금 이벤트 개발
 - 사용자 가입 간소화 프로세스 개발
 - 카드 리더기/POS/카드사 개발
-- GA 및 애드브릭스 분석솔루션 활용, VAN사 가입신청 간소화 인터페이스 개발
+- GA 및 애드브릭스 분석솔루션 활용
+- VAN사 가입신청 간소화 인터페이스 개발
 
 **What have I achieved.**
 
